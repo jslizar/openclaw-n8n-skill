@@ -88,4 +88,4 @@ MIT
 
 ## Credits
 
-Built by [Otter Labs](https://github.com/jslizar) for use with OpenClaw.
+Built by [Otter Labs](https://otterlabs.io) for use with OpenClaw.
